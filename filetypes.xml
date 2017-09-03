@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Bower_components" type="JSON" />
       <mapping pattern="dyanmicapplication" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
